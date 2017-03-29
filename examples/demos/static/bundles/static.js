@@ -1,7 +1,7 @@
 /*[system-bundles-config]*/
 if(!System.bundlesPath) {
-	System.paths["bundles/*.css"] ="../../../../../../../../../../../../../../node_modules/documentjs/site/static/build/9dfed814136f0688c18db14614dbb490/bundles/*css";
-	System.paths["bundles/*"] = "../../../../../../../../../../../../../../node_modules/documentjs/site/static/build/9dfed814136f0688c18db14614dbb490/bundles/*.js";
+	System.paths["bundles/*.css"] ="../../../../../../../../../../../../../node_modules/documentjs/site/static/build/e397fa731b9f682fa246bfdc27eb841b/bundles/*css";
+	System.paths["bundles/*"] = "../../../../../../../../../../../../../node_modules/documentjs/site/static/build/e397fa731b9f682fa246bfdc27eb841b/bundles/*.js";
 }
 System.bundles = {"bundles/static.css!":["styles/styles.less!$less"]};
 /*config.js*/
